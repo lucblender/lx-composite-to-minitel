@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LM1881MX_NOPB_NOPB")(type "KiCad")(uri "${KIPRJMOD}/libraries/LM1881MX_NOPB_NOPB")(options "")(descr ""))
+)
