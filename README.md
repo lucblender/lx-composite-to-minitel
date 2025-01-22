@@ -1,5 +1,13 @@
 # lx-composite-to-minitel
 
+KiCad project of a Minitel mod to add composite video input.
+Projet KiCad d'une modification de Minitel pour ajouter une entrée vidéo composite.
+
+## Pictures
+
+![top](/pictures/top.jpg)
+![bottom](/pictures/bottom.jpg)
+
 ## En
 
 ### Description
@@ -37,11 +45,6 @@ Pour le PCB, j'ai utilisé des pistes arrondies pour avoir un style similaire au
 ### Assemblage
 
 Le connecteur de sortie du PCB est trop petit pour s'adapter à la carte Minitel (espacement de 2,54 mm contre 5,08 mm). Dans mon cas, j'ai dessoudé le pin header d'origine du Minitel de 5,08mm de pitch et fabriqué un câble adaptateur custom pour s'adapter à la carte Minitel. Voir l'image ci-dessous pour plus de détails.
-
-## Pictures
-
-![top](/pictures/top.jpg)
-![bottom](/pictures/bottom.jpg)
 
 ## Schematic
 
