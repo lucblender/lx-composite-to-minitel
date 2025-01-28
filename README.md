@@ -46,12 +46,21 @@ Pour le PCB, j'ai utilisé des pistes arrondies pour avoir un style similaire au
 
 Le connecteur de sortie du PCB est trop petit pour s'adapter à la carte Minitel (espacement de 2,54 mm contre 5,08 mm). Dans mon cas, j'ai dessoudé le pin header d'origine du Minitel de 5,08mm de pitch et fabriqué un câble adaptateur custom pour s'adapter à la carte Minitel. Voir l'image ci-dessous pour plus de détails.
 
+## Assembly - Assemblage
+
+### Adapter cable - Cable d'adaptation
+
+![adapter cable](/pictures/with-adapter.jpg)
+
+### Mouted - Monté
+
+![top mounted](/pictures/mouted-top.jpg)
+![bottom mounted](/pictures/mouted-bottom.jpg)
+
 ## Schematic
 
 ![schematic](/av-to-minitel/output/av-to-minitel.svg)
 
 ## Video Demo
 
-
 https://github.com/user-attachments/assets/5a00ba67-d3fa-4769-bc9c-a68b00cb2784
-
