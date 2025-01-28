@@ -63,4 +63,6 @@ Le connecteur de sortie du PCB est trop petit pour s'adapter à la carte Minitel
 
 ## Video Demo
 
+Demo with a raspberry pi running [Auto Waaave](https://andreijaycreativecoding.com/AUTO-WAAAVE-MANUAL) by Andrei_Jay.
+
 https://github.com/user-attachments/assets/5a00ba67-d3fa-4769-bc9c-a68b00cb2784
