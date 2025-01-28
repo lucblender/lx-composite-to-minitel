@@ -49,3 +49,9 @@ Le connecteur de sortie du PCB est trop petit pour s'adapter à la carte Minitel
 ## Schematic
 
 ![schematic](/av-to-minitel/output/av-to-minitel.svg)
+
+## Video Demo
+
+
+https://github.com/user-attachments/assets/5a00ba67-d3fa-4769-bc9c-a68b00cb2784
+
