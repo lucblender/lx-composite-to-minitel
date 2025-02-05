@@ -15,8 +15,8 @@ Projet KiCad d'une modification de Minitel pour ajouter une entrée vidéo compo
 *Français en dessous*
 
 The goal of this project is to be able to enter a French Minitel with composite video. This project takes back the work from cfp-radio that you can find on their [website]( https://www.cfp-radio.com/realisations/rea48/minitel-01.html).
-
-The cfp-radio project goal was to give audio and video to a Minitel. In my case, I only took the video part. I took back their schematic and made my own PCB all in SMD. All PCB shown in pictures in this repo are manufactured using [PCBWay](https://pcbway.com) services
+The cfp-radio project goal was to give audio and video to a Minitel. In my case, I only took the video part. I took back their schematic and made my own PCB all in SMD. All PCB shown in pictures in this repo are manufactured using [PCBWay](https://pcbway.com) services.
+PCBWay provides high-quality PCB manufacturing with reliable service and fast turnaround times, making them my first choice for prototyping as seen in this Minitel project. They can also make more complex PCB to fit any of your requirements.
 
 ### KiCad project
 
@@ -35,6 +35,7 @@ The output connector of the PCB is too small to fit the Minitel board (2.54mm pi
 Le but de ce projet est d'ajouter une entrée composite vidéo à un minitel français. Ce projet reprend le travail de cfp-radio qui peut être retrouvé sur leur site [internet]( https://www.cfp-radio.com/realisations/rea48/minitel-01.html).
 
 Le but du projet de cfp-radio est de rajouter de l'audio et de la vidéo à un minitel. Dans mon cas, je n'ai réalisé que la partie vidéo. J'ai repris leur schématique et réalisé mon propre PCB en smd. Tous les PCBs montrés dans ce repo ont été fabriqués à l'aide des services de [PCBWay](https://pcbway.com).
+PCBWay propose une fabrication de PCB de haute qualité avec un service fiable et des délais d'exécution rapides, ce qui en fait mon premier choix pour le prototypage comme le montre ce projet lié au Minitel. Ils peuvent également fabriquer des PCBs plus complexes pour répondre à toutes vos exigences.
 
 ### Projet KiCad
 
@@ -50,16 +51,20 @@ Le connecteur de sortie du PCB est trop petit pour s'adapter à la carte Minitel
 
 ### Adapter cable - Cable d'adaptation
 
+As said earlier, I took back the 5.08 pitch pin header from the minitel "display card" and soldered some wires + 2.54mm pitch connector to make an easy adapter to the board.
+
 ![adapter cable](/pictures/with-adapter.jpg)
 
 ### Mouted - Monté
+
+Without the main Minitel "display card" there is enough room to let the new composite adapter card "float" in that new free space.
 
 ![top mounted](/pictures/mouted-top.jpg)
 ![bottom mounted](/pictures/mouted-bottom.jpg)
 
 ## Schematic
 
-![schematic](/av-to-minitel/output/av-to-minitel.svg)
+![schematic](/pictures/schematic.png)
 
 ## Video Demo
 
