@@ -68,8 +68,18 @@ Without the main Minitel "display card" there is enough room to let the new comp
 
 ![schematic](/pictures/schematic.png)
 
+## License
+
+This project is under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
 ## Video Demo
 
 Demo with a raspberry pi running [Auto Waaave](https://andreijaycreativecoding.com/AUTO-WAAAVE-MANUAL) by Andrei_Jay.
 
-https://github.com/user-attachments/assets/5a00ba67-d3fa-4769-bc9c-a68b00cb2784
+<https://github.com/user-attachments/assets/5a00ba67-d3fa-4769-bc9c-a68b00cb2784>
